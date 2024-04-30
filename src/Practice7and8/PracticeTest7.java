@@ -1,4 +1,4 @@
-package jp.co.aforce.test.Practice7and8;
+package Practice7and8;
 
 public class PracticeTest7 {
 

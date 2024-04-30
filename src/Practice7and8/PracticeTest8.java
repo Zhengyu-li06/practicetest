@@ -1,9 +1,7 @@
-package jp.co.aforce.test.Practice7and8;
+package Practice7and8;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
-
-
-import java.util.ArrayList;
 
 public class PracticeTest8 {
 

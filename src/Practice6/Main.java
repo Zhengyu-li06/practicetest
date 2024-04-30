@@ -1,4 +1,4 @@
-package jp.co.aforce.test.Practice6;
+package Practice6;
 
 //練習問題１
 class Main {
